@@ -33,8 +33,8 @@ Uma ferramenta de produtividade desenvolvida com **Manifest V3**, focada em:
 ### 📊 Estatísticas e Certificações
 - 📜 **Certificações:** AWS Cloud Practitioner | OCI Foundations Associate | Google Cloud Computing.
 
-![Estatísticas do Daniel](https://github-readme-stats.vercel.app/api?username=DanielMouraoti&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMouraoti&layout=compact&theme=radical)
+[![Estatísticas do Daniel](https://github-readme-stats.vercel.app/api?username=DanielMouraoti&show_icons=true&theme=radical)](https://github.com/DanielMouraoti)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMouraoti&layout=compact&theme=radical)](https://github.com/DanielMouraoti)
 
 ---
 📫 **Conecte-se comigo:** [LinkedIn](http://linkedin.com/in/danielmouraoda) | danielmourafit@gmail.com
