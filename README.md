@@ -4,7 +4,7 @@
 
 Analista de Tecnologia com experiência em suporte técnico de alto nível, gestão de infraestrutura e automação de processos. Atualmente, foco em unir minha base de **Troubleshooting e Cloud** com o desenvolvimento ágil de software assistido por IA.
 
-* 🛠️ Atualmente atuando na **Capta Tecnologia**, focado em estabilidade operacional e análise de logs.
+* 🛠️ Atualmente atuando na **Elin Duxus**, focado em estabilidade operacional e análise de logs.
 * 💡 Desenvolvedor do projeto **Study AI**: Uma extensão Chrome (Manifest V3) com foco em produtividade e visualização de dados.
 * 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela PUCPR.
 * 🚀 Busco atuar na ponte entre Suporte e equipes de **Infra/DevOps**.
