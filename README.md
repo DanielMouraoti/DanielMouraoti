@@ -1,38 +1,69 @@
-# Olá, eu sou o Daniel Mourão Lopes! 👋
+# 👋 Olá, eu sou o Daniel Mourão Lopes
 
-### 🚀 Analista de TI | Cloud & DevOps Enthusiast | Product Engineer
+## 🚀 Analista de Infraestrutura & DevOps Jr
 
-Analista de Tecnologia com experiência em suporte técnico de alto nível, gestão de infraestrutura e automação de processos. Atualmente, foco em unir minha base de **Troubleshooting e Cloud** com o desenvolvimento ágil de software assistido por IA.
+Atuo como **Analista de Infraestrutura e DevOps Jr na Elin Duxus Consulting**, com foco em estabilidade operacional, troubleshooting avançado e suporte a ambientes críticos.
 
-* 🛠️ Atualmente atuando na **Elin Duxus**, focado em estabilidade operacional e análise de logs.
-* 💡 Desenvolvedor do projeto **Study AI**: Uma extensão Chrome (Manifest V3) com foco em produtividade e visualização de dados.
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela PUCPR.
-* 🚀 Busco atuar na ponte entre Suporte e equipes de **Infra/DevOps**.
+Tenho experiência prática com **Linux, containers, Kubernetes e automação**, trabalhando na análise de incidentes, investigação de logs e melhoria contínua de processos.
 
----
-
-### 🛠️ Minha Stack Técnica
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python (APIs & Scripts), SQL, Bash/Shell Script, YAML, JavaScript |
-| **Cloud & Infra** | AWS, Google Cloud (GCP), Oracle Cloud (OCI), Docker, Kubernetes |
-| **Ferramentas** | Git, Flask, ClickUp, Intercom, Análise de Logs |
-| **Especialidades** | Troubleshooting ERP/CRM, Gestão de SLAs e Automação de Chamados |
+Busco evoluir cada vez mais em **Cloud, automação e arquitetura de ambientes escaláveis**.
 
 ---
 
-### 📈 Projeto em Destaque: Study AI
-Uma ferramenta de produtividade desenvolvida com **Manifest V3**, focada em:
-- Gestão de tempo (Pomodoro) com feedback sonoro via **Offscreen API**.
-- Dashboards estatísticos dinâmicos com **Chart.js**.
-- UI moderna com foco em performance e segurança. 👉 [Ver Repositório](https://github.com/DanielMouraoti/study-ai)
+## 🛠️ Stack Técnica
+
+### 💻 Linguagens & Automação
+- Python (scripts e automação)
+- Bash / Shell Script
+- PowerShell
+- SQL
+- YAML
+
+### ☁️ Cloud & Containers
+- AWS
+- Google Cloud (GCP)
+- Oracle Cloud (OCI)
+- Docker
+- Kubernetes (produção e laboratório)
+
+### 🔎 Operações & Observabilidade
+- Troubleshooting em ambientes Linux
+- Análise de logs
+- Gestão de SLAs
+- Suporte a sistemas corporativos
+
+### 🔧 Ferramentas
+- Git
+- Vim
+- Flask
+- ClickUp
+- Intercom
 
 ---
 
-### 📊 Estatísticas e Certificações
-- 📜 **Certificações:** AWS Cloud Practitioner | OCI Foundations Associate | Google Cloud Computing.
+## 📌 Projeto em Destaque — Study AI
+
+Extensão Chrome desenvolvida com **Manifest V3**, focada em produtividade e visualização de dados.
+
+**Principais funcionalidades:**
+- Timer Pomodoro com feedback sonoro via Offscreen API  
+- Dashboards estatísticos dinâmicos com Chart.js  
+- Interface moderna com foco em performance e segurança  
+
+🔗 Repositório:  
+👉 https://github.com/DanielMouraoti/study-ai
 
 ---
 
-📫 **Conecte-se comigo:** [LinkedIn](http://linkedin.com/in/danielmouraoda) | danielmourafit@gmail.com
+## 🎓 Formação & Certificações
+
+- 🎓 Análise e Desenvolvimento de Sistemas — PUCPR  
+- 📜 AWS Cloud Practitioner  
+- 📜 OCI Foundations Associate  
+- 📜 Google Cloud Computing  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Aprofundar minha atuação em Infraestrutura e DevOps, com foco em automação, cloud computing e ambientes de alta disponibilidade.
