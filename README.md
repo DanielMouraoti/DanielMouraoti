@@ -1,69 +1,48 @@
 # 👋 Olá, eu sou o Daniel Mourão Lopes
+**Analista de Infraestrutura & DevOps Jr | São Paulo, Brasil**
 
-## 🚀 Analista de Infraestrutura & DevOps Jr
-
-Atuo como **Analista de Infraestrutura e DevOps Jr na Elin Duxus Consulting**, com foco em estabilidade operacional, troubleshooting avançado e suporte a ambientes críticos.
-
-Tenho experiência prática com **Linux, containers, Kubernetes e automação**, trabalhando na análise de incidentes, investigação de logs e melhoria contínua de processos.
-
-Busco evoluir cada vez mais em **Cloud, automação e arquitetura de ambientes escaláveis**.
+Atuo como **Analista de Infraestrutura e DevOps Jr na Elin Duxus Consulting**, com foco em estabilidade operacional, troubleshooting avançado e suporte a ambientes críticos. Tenho experiência prática com **Linux, containers, Kubernetes e automação**, trabalhando na investigação de incidentes e melhoria contínua de processos.
 
 ---
 
 ## 🛠️ Stack Técnica
 
 ### 💻 Linguagens & Automação
-- Python (scripts e automação)
-- Bash / Shell Script
-- PowerShell
-- SQL
-- YAML
+- **Python**: Scripts para monitoramento e integração com APIs (Pushover/PostgreSQL).
+- **Shell Script / PowerShell**: Automação de tarefas e gestão de sistemas operacionais.
+- **SQL / YAML**: Manipulação de dados e configuração de infraestrutura como código.
 
 ### ☁️ Cloud & Containers
-- AWS
-- Google Cloud (GCP)
-- Oracle Cloud (OCI)
-- Docker
-- Kubernetes (produção e laboratório)
+- **AWS / GCP / OCI**: Conhecimento fundamentado por certificações e laboratórios práticos.
+- **Docker & Kubernetes**: Criação de imagens, orquestração e gestão de microserviços.
 
 ### 🔎 Operações & Observabilidade
-- Troubleshooting em ambientes Linux
-- Análise de logs
-- Gestão de SLAs
-- Suporte a sistemas corporativos
-
-### 🔧 Ferramentas
-- Git
-- Vim
-- Flask
-- ClickUp
-- Intercom
+- **Zabbix & Grafana**: Implementação de monitoramento de infraestrutura com dashboards dinâmicos.
+- **Troubleshooting**: Análise profunda de logs e gestão de SLAs em sistemas corporativos.
 
 ---
 
-## 📌 Projeto em Destaque — Study AI
+## 📌 Projetos em Destaque
 
-Extensão Chrome desenvolvida com **Manifest V3**, focada em produtividade e visualização de dados.
+### 🌐 [Infraestrutura Física Corporativa](https://github.com/DanielMouraoti/Projeto-Infra)
+Documentação detalhada da topologia de rede corporativa, focada em organização física e lógica.
+- **Destaques**: Segmentação departamental, redundância de links (ISP Failover) e conformidade com privacidade de dados.
+- **Ferramentas**: Draw.io, Git, Documentação Técnica.
 
-**Principais funcionalidades:**
-- Timer Pomodoro com feedback sonoro via Offscreen API  
-- Dashboards estatísticos dinâmicos com Chart.js  
-- Interface moderna com foco em performance e segurança  
+### 📌 [Study AI](https://github.com/DanielMouraoti/study-ai)
+Extensão para Chrome focada em produtividade (Pomodoro) e visualização de dados via Offscreen API.
+- **Destaques**: Dashboards estatísticos dinâmicos com Chart.js e foco em performance.
 
-🔗 Repositório:  
-👉 https://github.com/DanielMouraoti/study-ai
+### 🐍 [Monitor-Infra](https://github.com/DanielMouraoti/monitor-infra)
+Automação em Python para monitoramento de servidores com alertas em tempo real via Pushover.
 
 ---
 
 ## 🎓 Formação & Certificações
-
-- 🎓 Análise e Desenvolvimento de Sistemas — PUCPR  
-- 📜 AWS Cloud Practitioner  
-- 📜 OCI Foundations Associate  
-- 📜 Google Cloud Computing  
+- **Análise e Desenvolvimento de Sistemas** — PUCPR.
+- **Certificações**: AWS Cloud Practitioner, OCI Foundations Associate e Google Cloud Computing.
 
 ---
 
 ## 🎯 Objetivo Profissional
-
-Aprofundar minha atuação em Infraestrutura e DevOps, com foco em automação, cloud computing e ambientes de alta disponibilidade.
+Evoluir em **Cloud Computing** e **DevOps**, com foco em arquiteturas escaláveis, automação de esteiras CI/CD e alta disponibilidade.
