@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Daniel Mourão Lopes
-**Analista de Infraestrutura & DevOps Jr | São Paulo, Brasil**
+**Engenheiro de Infraestrutura & DevOps Jr | São Paulo, Brasil**
 
 Atuo como **Analista de Infraestrutura e DevOps Jr na Elin Duxus Consulting**, com foco em **estabilidade operacional**, **troubleshooting** e **melhoria contínua** em ambientes críticos. Trabalho com **Linux, containers, Kubernetes e automação**, apoiando investigação de incidentes, padronização de rotinas e otimização de processos.
 
