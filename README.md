@@ -1,58 +1,59 @@
-# 👋 Olá, eu sou o Daniel Mourão Lopes
-**Engenheiro de Infraestrutura & DevOps Jr | São Paulo, Brasil**
+# 🚀 Daniel Mourão Lopes
+**Infrastructure & DevOps Engineer | SRE Specialist**
 
-Atuo como **Analista de Infraestrutura e DevOps Jr na Elin Duxus Consulting**, com foco em **estabilidade operacional**, **troubleshooting** e **melhoria contínua** em ambientes críticos. Trabalho com **Linux, containers, Kubernetes e automação**, apoiando investigação de incidentes, padronização de rotinas e otimização de processos.
+Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automação de ecossistemas críticos. Minha abordagem une **Observabilidade** e **Infraestrutura como Código (IaC)** para erradicar tarefas manuais (*Toil*) e garantir operações escaláveis em ambientes híbridos.
 
-### Em resumo
-- **Backups (120+ servidores):** gestão operacional de rotinas de backup, monitoramento de execuções, troubleshooting de falhas e suporte a restaurações.
-- **Linux & Troubleshooting:** análise de logs, investigação de causa raiz e gestão de SLAs.
-- **Containers & Kubernetes:** suporte a workloads containerizados, automação e boas práticas.
-- **Observabilidade:** monitoramento e dashboards com Zabbix e Grafana.
-
----
-
-## 🛠️ Stack Técnica
-
-### 💻 Linguagens & Automação
-- **Python**: scripts para monitoramento e integração com APIs.
-- **Shell Script / PowerShell**: automação de tarefas e administração de sistemas.
-- **SQL / YAML**: consultas e configuração/infra como código.
-
-### ☁️ Cloud & Containers
-- **AWS / GCP / OCI**: estudos e laboratórios práticos, com foco em serviços essenciais e fundamentos de arquitetura.
-- **Docker & Kubernetes**: criação de imagens, orquestração e operações em ambientes containerizados.
-
-### 🔎 Operações & Observabilidade
-- **Zabbix & Grafana**: monitoramento de infraestrutura e dashboards.
-- **Troubleshooting**: investigação de incidentes, análise de logs e melhoria de confiabilidade.
+### ⚡ Impacto Técnico em Números
+*   **Sustentação de Escala:** Gestão e troubleshooting de um ecossistema com **120+ servidores Linux**.
+*   **Data Protection:** Orquestração de rotinas críticas de backup e planos de Disaster Recovery.
+*   **Efficiency Driven:** Implementação de automação para gestão de patches, reduzindo drasticamente o tempo de manutenção manual.
+*   **SLA & Performance:** Foco constante em redução de MTTR através de análise profunda de logs e tuning de sistemas.
 
 ---
 
-## 📌 Projetos em Destaque
+## 🛠️ Stack Tecnológica
 
-### 🌐 Infraestrutura Física Corporativa
-Repositório: https://github.com/DanielMouraoti/Projeto-Infra-Arquitetura
-Documentação detalhada de topologia de rede corporativa (física e lógica).
-- **Destaques**: segmentação departamental, redundância de links (ISP failover) e documentação técnica organizada.
+### 🔧 Automação & IaC
+- **Ansible / Terraform**: Gerenciamento de configuração e provisionamento imutável.
+- **Python / Bash**: Desenvolvimento de tooling interno e automação de processos de missão crítica.
 
-### 📌 Study AI (Extensão Chrome)
-Repositório: https://github.com/DanielMouraoti/study-ai
-Extensão de produtividade (Pomodoro) com painel estatístico e integração com Spotify.
-- **Destaques**: dashboards com Chart.js, foco em performance e UX.
-- **Próximos passos**: landing page, releases automatizadas e recursos “Pro”.
+### 🐳 Cloud & Orquestração
+- **Docker & Kubernetes**: Deployment e sustentação de workloads containerizados.
+- **AWS / GCP / OCI**: Arquitetura de serviços essenciais e fundamentos de nuvem híbrida.
 
-### 📈 [Monitoramento — Zabbix & Grafana](https://github.com/DanielMouraoti/monitoramento-zabbix-grafana)
-Projeto focado em **observabilidade** e monitoramento de infraestrutura utilizando **Zabbix** e **Grafana**.
-- **Destaques**: organização de monitoramento e dashboards para acompanhamento operacional e troubleshooting.
-- **Stack**: Zabbix, Grafana, alertas e dashboards.
+### 📈 Observabilidade & Resiliência
+- **Zabbix & Grafana**: Engenharia de monitoramento, criação de dashboards avançados e alertas inteligentes.
+- **Troubleshooting**: Investigação de causa raiz (RCA) e melhoria contínua de confiabilidade.
 
 ---
 
-## 🎓 Formação & Certificações
+## 📌 Projetos de Engenharia em Destaque
+
+### 🤖 [Automação de Patch Management & Compliance](https://github.com/DanielMouraoti/ansible-ubuntu-maintenance)
+Solução de **IaC** utilizando **Ansible** para automatizar o ciclo de vida de atualizações em 60+ hosts simultâneos.
+- **Destaques**: Integração entre monitoramento (Grafana) e remediação automática, garantindo 100% de compliance de segurança de forma centralizada.
+- **Tech Stack**: Ansible, YAML, SSH Security, Ubuntu.
+
+### 🌐 [Infraestrutura Física & Topologia Corporativa](https://github.com/DanielMouraoti/Projeto-Infra-Arquitetura)
+Arquitetura detalhada de topologia de rede corporativa (L2/L3).
+- **Destaques**: Design de segmentação departamental, redundância de links (ISP Failover) e documentação técnica de alta fidelidade.
+
+### 📈 [Observabilidade Avançada — Zabbix & Grafana](https://github.com/DanielMouraoti/monitoramento-zabbix-grafana)
+Ecossistema focado em visibilidade operacional total e redução de ruído em alertas.
+- **Destaques**: Dashboards voltados para suporte à tomada de decisão e troubleshooting rápido através de métricas centralizadas.
+
+---
+
+## 🎓 Educação & Certificações
 - **Análise e Desenvolvimento de Sistemas** — PUCPR
-- **Certificações**: AWS Cloud Practitioner, OCI Foundations Associate, Google Cloud Computing
+- **AWS** Certified Cloud Practitioner
+- **OCI** Foundations Associate
+- **Google Cloud** Computing Foundations
 
 ---
 
-## 🎯 Objetivo
-Evoluir em **Cloud Computing** e **DevOps**, com foco em **arquiteturas escaláveis**, **CI/CD**, **observabilidade** e **alta disponibilidade**.
+## 🎯 Próximos Desafios
+Minha meta é consolidar arquiteturas cada vez mais **Cloud Native**, aprimorar pipelines de **CI/CD** e expandir estratégias de **Alta Disponibilidade** em ambientes globais.
+
+---
+[LinkedIn](https://www.linkedin.com/in/danielmouraoti/) | [GitHub](https://github.com/DanielMouraoti)
