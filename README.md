@@ -49,6 +49,7 @@ Ecossistema focado em visibilidade operacional total e redução de ruído em al
 - **AWS** Certified Cloud Practitioner
 - **OCI** Foundations Associate
 - **Google Cloud** Computing Foundations
+- **Microsoft** Azure Fundamentals (AZ-900)
 
 ---
 
@@ -56,4 +57,4 @@ Ecossistema focado em visibilidade operacional total e redução de ruído em al
 Minha meta é consolidar arquiteturas cada vez mais **Cloud Native**, aprimorar pipelines de **CI/CD** e expandir estratégias de **Alta Disponibilidade** em ambientes globais.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/danielmouraoti/) | [GitHub](https://github.com/DanielMouraoti)
+[LinkedIn](https://www.linkedin.com/in/danielmouraoda/) | [GitHub](https://github.com/DanielMouraoti)
