@@ -16,7 +16,7 @@ Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automaç
 
 ## ⚡ Impacto Técnico em Números
 
-- **Sustentação de Escala:** gestão e troubleshooting de um ecossistema com **120+ servidores Linux**.
+- **Sustentação de Escala:** gestão e troubleshooting de um ecossistema com **140+ servidores Linux**.
 - **Data Protection:** orquestração de rotinas críticas de backup e planos de Disaster Recovery.
 - **Efficiency Driven:** implementação de automação para gestão de patches, reduzindo drasticamente o tempo de manutenção manual.
 - **SLA & Performance:** foco constante em redução de MTTR através de análise profunda de logs e tuning de sistemas.
@@ -41,7 +41,7 @@ Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automaç
 
 ## 📌 Projetos de Engenharia em Destaque
 
-### ☁️ [Lab de SRE & Cloud Native](https://github.com/DanielMouraoti/lab-observabilidade)
+### ☁️ [Lab de SRE & Cloud Native](https://github.com/DanielMouraoti/lab-observabilidade-sre)
 Arquitetura híbrida simulando ambiente de produção com automação de infraestrutura.
 - **Destaques**: provisionamento imutável via Terraform na AWS, API resiliente em FastAPI com rotas de simulação de falhas, e orquestração de observabilidade local.
 - **Tech Stack**: Terraform, AWS (EC2/SG), Python (FastAPI), Docker, Zabbix, Grafana.
@@ -64,7 +64,7 @@ Ecossistema focado em visibilidade operacional total e redução de ruído em al
 ## 🎓 Formação & Certificações
 
 **Formação Acadêmica**
-- Análise e Desenvolvimento de Sistemas — PUCPR
+- Análise e Desenvolvimento de Sistemas — UNINTER
 
 **Certificações**
 - AWS Certified Cloud Practitioner
