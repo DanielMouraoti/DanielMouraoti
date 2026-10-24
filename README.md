@@ -1,5 +1,5 @@
 # 🚀 Daniel Mourão Lopes
-**Infrastructure & DevOps Engineer | SRE Specialist**
+**Infrastructure & DevOps Engineer | Site Reliability Engineer**
 
 Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automação de ecossistemas críticos. Minha abordagem une **Observabilidade** e **Infraestrutura como Código (IaC)** para erradicar tarefas manuais (*Toil*) e garantir operações escaláveis em ambientes híbridos.
 
@@ -64,7 +64,7 @@ Ecossistema focado em visibilidade operacional total e redução de ruído em al
 ## 🎓 Formação & Certificações
 
 **Formação Acadêmica**
-- Análise e Desenvolvimento de Sistemas — UNINTER
+- Análise e Desenvolvimento de Sistemas — Anhembi Morumbi
 
 **Certificações**
 - AWS Certified Cloud Practitioner
