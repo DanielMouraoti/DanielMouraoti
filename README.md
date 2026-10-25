@@ -1,7 +1,8 @@
 # 🚀 Daniel Mourão Lopes
-**Infrastructure Analyst DevOps | SRE**
 
-Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automação de ecossistemas críticos. Minha abordagem une **Observabilidade** e **Infraestrutura como Código (IaC)** para erradicar tarefas manuais (*Toil*) e garantir operações escaláveis em ambientes híbridos.
+**Infrastructure Analyst | Observability · IaC · SRE**
+
+Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automação de ecossistemas críticos. Minha abordagem une **Observabilidade** e **Infraestrutura como Código (IaC)** para reduzir tarefas manuais (*toil*) e manter operações estáveis em ambientes do mercado financeiro.
 
 [![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)](#)
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](#)
@@ -14,69 +15,77 @@ Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automaç
 
 ---
 
-## ⚡ Impacto Técnico em Números
+## ⚡ Impacto Técnico
 
-- **Sustentação de Escala:** gestão e troubleshooting de um ecossistema com **140+ servidores Linux**.
-- **Data Protection:** orquestração de rotinas críticas de backup e planos de Disaster Recovery.
-- **Efficiency Driven:** implementação de automação para gestão de patches, reduzindo drasticamente o tempo de manutenção manual.
-- **SLA & Performance:** foco constante em redução de MTTR através de análise profunda de logs e tuning de sistemas.
+- **Escala:** sustentação e troubleshooting de um ambiente com **~140 servidores Linux**.
+- **Proteção de dados:** rotinas de backup e testes de recuperação (DR) em bancos de dados e storages de aplicações críticas.
+- **Automação:** playbooks Ansible para gestão de patches, reduzindo o esforço manual da equipe.
+- **Monitoramento:** dashboards e alertas em Zabbix e Grafana para antecipar falhas e acelerar a análise de incidentes.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 ### 🔧 Automação & IaC
-- **Ansible / Terraform**: gerenciamento de configuração e provisionamento imutável.
-- **Python / Bash**: desenvolvimento de tooling interno e automação de processos de missão crítica.
+- **Ansible / Terraform**: gerenciamento de configuração e provisionamento de infraestrutura como código.
+- **Python / Bash**: scripts e ferramentas internas para automação de rotinas operacionais.
 
 ### 🐳 Cloud & Orquestração
-- **Docker & Kubernetes**: deployment e sustentação de workloads containerizados.
-- **AWS / GCP / OCI**: arquitetura de serviços essenciais e fundamentos de nuvem híbrida.
+- **Docker & Kubernetes**: deploy de workloads containerizados em Docker no trabalho e em Kubernetes (GKE e clusters locais) nos projetos.
+- **AWS / GCP / OCI**: serviços essenciais de nuvem e projetos práticos (EC2, GKE, Terraform).
 
 ### 📈 Observabilidade & Resiliência
-- **Zabbix & Grafana**: engenharia de monitoramento, criação de dashboards avançados e alertas inteligentes.
-- **Troubleshooting**: investigação de causa raiz (RCA) e melhoria contínua de confiabilidade.
+- **Zabbix & Grafana**: monitoramento, criação de dashboards e alertas.
+- **Troubleshooting**: análise de logs, investigação de causa raiz (RCA) e melhoria contínua de confiabilidade.
 
 ---
 
-## 📌 Projetos de Engenharia em Destaque
+## 📌 Projetos em Destaque
 
-### ☁️ [Lab de SRE & Cloud Native](https://github.com/DanielMouraoti/lab-observabilidade-sre)
-Arquitetura híbrida simulando ambiente de produção com automação de infraestrutura.
-- **Destaques**: provisionamento imutável via Terraform na AWS, API resiliente em FastAPI com rotas de simulação de falhas, e orquestração de observabilidade local.
+### ☁️ [Lab de SRE & Observabilidade](https://github.com/DanielMouraoti/lab-observabilidade-sre)
+Laboratório que combina monitoramento local com serviços provisionados em nuvem.
+- **Destaques**: stack Zabbix + Grafana em Docker Compose, instância EC2 provisionada com Terraform e API FastAPI com rotas de simulação de falhas e estresse de CPU.
 - **Tech Stack**: Terraform, AWS (EC2/SG), Python (FastAPI), Docker, Zabbix, Grafana.
 
-### 🤖 [Automação de Patch Management & Compliance](https://github.com/DanielMouraoti/ansible-ubuntu-maintenance)
-Solução de **IaC** utilizando **Ansible** para automatizar o ciclo de vida de atualizações em 60+ hosts simultâneos.
-- **Destaques**: integração entre monitoramento (Grafana) e remediação automática, garantindo 100% de compliance de segurança de forma centralizada.
-- **Tech Stack**: Ansible, YAML, SSH Security, Ubuntu.
+### ⚙️ [Core API: Microsserviços em Kubernetes no GCP](https://github.com/DanielMouraoti/core-api-microsservicos)
+API em Python com cache, fila assíncrona e worker, evoluída de um ambiente local para Kubernetes na nuvem.
+- **Destaques**: cluster GKE Autopilot e VPC provisionados com Terraform, manifestos Kubernetes e pipeline no GitHub Actions que publica a imagem no Docker Hub com tag por commit.
+- **Tech Stack**: Python (FastAPI), MongoDB, Redis, RabbitMQ, Docker, Terraform, GKE, GitHub Actions.
+
+### 🤖 [Automação de Patch Management](https://github.com/DanielMouraoti/ansible-ubuntu-maintenance)
+Automação com **Ansible** para o ciclo de atualizações em 60+ hosts.
+- **Destaques**: execução centralizada e padronizada das atualizações de segurança, integrada ao monitoramento com Grafana.
+- **Tech Stack**: Ansible, YAML, SSH, Ubuntu.
 
 ### 🌐 [Infraestrutura Física & Topologia Corporativa](https://github.com/DanielMouraoti/Projeto-Infra-Arquitetura)
-Arquitetura detalhada de topologia de rede corporativa (L2/L3).
-- **Destaques**: design de segmentação departamental, redundância de links (ISP Failover) e documentação técnica de alta fidelidade.
+Arquitetura de topologia de rede corporativa (L2/L3).
+- **Destaques**: segmentação departamental, redundância de links (ISP failover) e documentação técnica.
 
-### 📈 [Observabilidade Avançada — Zabbix & Grafana](https://github.com/DanielMouraoti/monitoramento-zabbix-grafana)
-Ecossistema focado em visibilidade operacional total e redução de ruído em alertas.
-- **Destaques**: dashboards voltados para suporte à tomada de decisão e troubleshooting rápido através de métricas centralizadas.
+### 📈 [Monitoramento com Zabbix & Grafana](https://github.com/DanielMouraoti/monitoramento-zabbix-grafana)
+Ambiente de monitoramento focado em visibilidade operacional e redução de ruído em alertas.
+- **Destaques**: dashboards para troubleshooting rápido a partir de métricas centralizadas.
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Formação, Certificações & Cursos
 
-**Formação Acadêmica**
-- Análise e Desenvolvimento de Sistemas — Anhembi Morumbi
+**Formação acadêmica**
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, Anhembi Morumbi (previsão de conclusão: jun/2027)
 
 **Certificações**
-- AWS Certified Cloud Practitioner
-- OCI Foundations Associate
-- Google Cloud Computing Foundations
+- Oracle Cloud Infrastructure Foundations Associate
 - Microsoft Azure Fundamentals (AZ-900)
+
+**Cursos**
+- AWS Cloud Practitioner Essentials
+- Google Cloud Computing Foundations
+- Cisco Network Fundamentals Specialization
 
 ---
 
-## 🎯 Próximos Desafios
+## 🎯 Próximos Passos
 
-Minha meta é consolidar arquiteturas cada vez mais **Cloud Native**, aprimorar pipelines de **CI/CD** e expandir estratégias de **Alta Disponibilidade** em ambientes globais.
+Consolidar arquiteturas **cloud native**, aprimorar pipelines de **CI/CD** e aprofundar observabilidade com **Prometheus** e **OpenTelemetry**.
 
 ---
 
