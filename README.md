@@ -17,7 +17,7 @@ Atuo na **Elin Duxus Consulting** focado em elevar a confiabilidade e a automaç
 
 ## ⚡ Impacto Técnico
 
-- **Escala:** sustentação e troubleshooting de um ambiente com **~140 servidores Linux**.
+- **Escala:** sustentação e troubleshooting de um ambiente com **servidores Linux**.
 - **Proteção de dados:** rotinas de backup e testes de recuperação (DR) em bancos de dados e storages de aplicações críticas.
 - **Automação:** playbooks Ansible para gestão de patches, reduzindo o esforço manual da equipe.
 - **Monitoramento:** dashboards e alertas em Zabbix e Grafana para antecipar falhas e acelerar a análise de incidentes.
